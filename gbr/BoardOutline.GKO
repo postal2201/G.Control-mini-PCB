@@ -1,0 +1,21 @@
+G04 DipTrace 4.3.0.5*
+G04 Gerber_BoardOutline.GKO*
+%MOIN*%
+G04 #@! TF.FileFunction,Profile*
+G04 #@! TF.Part,Single*
+%ADD10C,0.004724*%
+%FSLAX26Y26*%
+G04*
+G70*
+G90*
+G75*
+G01*
+G04 BoardOutline*
+%LPD*%
+X393700Y2743700D2*
+D10*
+X4243700D1*
+Y393700D1*
+X393700D1*
+Y2743700D1*
+M02*
